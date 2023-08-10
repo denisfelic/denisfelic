@@ -14,8 +14,6 @@ I'm an Full Stack developer, building apps and coding for fun!
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisfelic&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical)
-
 Get in touch via linkedin
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-feliciano-fs/)
