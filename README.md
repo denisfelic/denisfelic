@@ -2,6 +2,9 @@
 
 I'm an Full Stack developer, building apps and coding for fun!
 
+![ghost-in-the-shell-programming-gif](https://github.com/denisfelic/denisfelic/assets/54157211/132de030-4548-4806-9844-a1353c7365c6)
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
